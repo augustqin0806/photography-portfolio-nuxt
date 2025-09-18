@@ -1,0 +1,17 @@
+
+@font-face {
+  font-family: 'Caskaydia';
+  src: url('../fonts/CaskaydiaCoveNF-Light.woff2') format('woff2'),
+       url('../fonts/CaskaydiaCoveNF-Light.woff')  format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+html,
+body {
+  font-family: 'Caskaydia', system-ui, sans-serif;
+  font-weight: 300;  
+}
+
