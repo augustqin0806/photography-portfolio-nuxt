@@ -49,6 +49,7 @@ npm run preview
 ```
 
 ## 📁 项目目录说明（参考 Nuxt 模板）
+```text
 ├─ assets/       # 样式、图片等静态资源
 ├─ components/   # Vue 组件
 ├─ composables/  # 可复用逻辑 hooks
@@ -58,11 +59,12 @@ npm run preview
 ├─ plugins/      # Nuxt 插件
 ├─ stores/       # Pinia 状态管理
 └─ nuxt.config.ts # Nuxt 配置
+```
 
 ---
 
 ## 📂 文档说明
-- [README.srcapi.md](./README.nuxt.md)：原始 nuxt 官方开发流程文档  
+- [README.nuxt.md](./README.nuxt.md)：原始 nuxt 官方开发流程文档  
 - 本 README：项目扩展说明与新功能记录  
 
 ---
